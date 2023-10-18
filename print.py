@@ -1,0 +1,5 @@
+print(11,22,33,44,sep="*",end="?\n")
+#print()
+print("Hello",'a','b','c',123,sep="#")
+print(10,20,30,40,sep="+",end="=?\n")
+print("This","is","a","pen",sep="*")
